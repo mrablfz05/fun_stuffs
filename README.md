@@ -81,6 +81,18 @@ README.md
      - Each library folder includes both Python modules (`.py`) and Jupyter notebooks (`.ipynb`) for benchmarking.
 
 
+## Notice
+
+📌 This project is intended for **educational and benchmarking purposes only**.  
+It is designed to help users:
+
+- Learn and compare common Python data libraries,
+- Understand performance trade-offs,
+- Experiment with data operations and visualization.
+- In the end of each module I wrote a report for more understanding (example: pd_py_matrix.py).
+Please ensure that any use of this project complies with relevant data and software usage guidelines in your environment.
+
+
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for new benchmarks, improvements, or bug fixes. Make sure your code is well-documented and follows the existing structure.
