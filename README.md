@@ -90,12 +90,13 @@ It is designed to help users:
 - Understand performance trade-offs,
 - Experiment with data operations and visualization.
 - In the end of each module I wrote a report for more understanding (example: pd_py_matrix.py).
+- I put some small size datasets in data directory for more training.
 Please ensure that any use of this project complies with relevant data and software usage guidelines in your environment.
 
 
 ## Contributing
 
-Contributions are welcome! Please open issues or submit pull requests for new benchmarks, improvements, or bug fixes. Make sure your code is well-documented and follows the existing structure.
+Contributions are welcome! Please open issues or submit pull requests for new benchmarks, improvements, datasets, or bug fixes. Make sure your code is well-documented and follows the existing structure.
 
 ## License
 
