@@ -53,7 +53,7 @@ plt.show()
 # --------------------REPORT--------------------
 # Sorting Performance Benchmark Report
 # Dataset Size: 70,000,000 integers (randomly generated)
-#
+# My Computer: core i7- ram8 ddr3- 2GB hdd
 # Objective:
 # To compare the execution time of sorting large datasets using:
 # 1. Python's built-in sorted() function
